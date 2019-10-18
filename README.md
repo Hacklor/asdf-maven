@@ -7,8 +7,10 @@ plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 This repository was forked because it had 2 (known) issues I came across.
 
 For more information:
-[Illegal sed -s option for Mac](https://github.com/skotchpine/asdf-maven/issues/15)
-[JAVA_HOME not found](https://github.com/skotchpine/asdf-maven/issues/22)
+
+Issue : [Illegal sed -s option for Mac](https://github.com/skotchpine/asdf-maven/issues/15)
+
+Issue : [JAVA_HOME not found](https://github.com/skotchpine/asdf-maven/issues/22)
 
 ## Install
 
