@@ -3,13 +3,20 @@
 [Maven](https://en.wikipedia.org/wiki/Apache_Maven)
 plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 
+## Forked
+This repository was forked because it had 2 (known) issues I came across.
+
+For more information:
+[Illegal sed -s option for Mac](https://github.com/skotchpine/asdf-maven/issues/15)
+[JAVA_HOME not found](https://github.com/skotchpine/asdf-maven/issues/22)
+
 ## Install
 
 After installing [asdf](https://github.com/asdf-vm/asdf),
 you can add this plugin like this:
 
 ```bash
-asdf plugin-add maven
+asdf plugin-add maven https://github.com/Hacklor/asdf-maven.git
 ```
 
 and install new versions like this:
